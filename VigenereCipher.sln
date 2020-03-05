@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VigenereCipher", "VigenereCipher\VigenereCipher.vcxproj", "{4FE24691-F6BC-4505-A3D7-B6867D52B129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE24691-F6BC-4505-A3D7-B6867D52B129}.Debug|x64.ActiveCfg = Debug|x64
+		{4FE24691-F6BC-4505-A3D7-B6867D52B129}.Debug|x64.Build.0 = Debug|x64
+		{4FE24691-F6BC-4505-A3D7-B6867D52B129}.Debug|x86.ActiveCfg = Debug|Win32
+		{4FE24691-F6BC-4505-A3D7-B6867D52B129}.Debug|x86.Build.0 = Debug|Win32
+		{4FE24691-F6BC-4505-A3D7-B6867D52B129}.Release|x64.ActiveCfg = Release|x64
+		{4FE24691-F6BC-4505-A3D7-B6867D52B129}.Release|x64.Build.0 = Release|x64
+		{4FE24691-F6BC-4505-A3D7-B6867D52B129}.Release|x86.ActiveCfg = Release|Win32
+		{4FE24691-F6BC-4505-A3D7-B6867D52B129}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0849D3C4-75E6-44E4-8CDB-5FF6148BA497}
+	EndGlobalSection
+EndGlobal
